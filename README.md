@@ -1,9 +1,9 @@
 ### Hi, I'm Jürg :switzerland:
 
 * :art: Frontend
-* :man_technologist: React, Vue.js, WordPress, CSS
+* :man_technologist: Vue, React, TypeScript, CMS
 * :pencil2: Blogging
-* :baby: Dad
+* 👦🏻 Dad
 * :desert_island: Traveling
 * :clapper: Movie-/TV-Show-Addict
 * :waxing_crescent_moon: Dark mode
