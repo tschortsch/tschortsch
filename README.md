@@ -1,7 +1,7 @@
-### Hi, I'm Jürg :switzerland:
+### Hi, I'm Jürg :switzerland::fondue:🏔️
 
-* :art: Frontend
-* :man_technologist: Vue, React, TypeScript, CMS
+* 👨🏻‍💻 Full-Stack Developer
+* 🏗️ Svelte, Vue, React, TypeScript, E-Commerce, CMS
 * :pencil2: Blogging
 * 👦🏻 Dad
 * :desert_island: Traveling
