@@ -1,5 +1,7 @@
 ### Hi, I'm Jürg :switzerland::fondue:🏔️
 
+Co-Founder of Neovo AG (neovo.ch)
+
 * 👨🏻‍💻 Full-Stack Developer
 * 🏗️ Svelte, Vue, React, TypeScript, E-Commerce, CMS
 * :pencil2: Blogging
